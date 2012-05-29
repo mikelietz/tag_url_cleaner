@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Tag URL Cleaner</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://mikelietz.org/code/">Mike Lietz</author>
+	<version>1.0</version>
+	<url>http://habariproject.org/</url>
+	<description><![CDATA[Shortens URLs of tag archives.]]></description>
+	<copyright>2012</copyright>
+	<guid>9a126b87-e26b-4fca-9727-f05f4922005c</guid>
+	<help><value><![CDATA[After enabling this, the link for <code>yoursite.com/tag/foo</code> will instead be <code>youtsite.com/foo</code>.]]></value></help>
+</pluggable>
+ 
